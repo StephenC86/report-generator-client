@@ -1,0 +1,26 @@
+.Meta 
+{
+  background: #0000ff;
+  color: white;
+  text-align: center;
+}
+
+.Report__Label
+{
+  font-weight: 700;
+  text-align: right;
+  margin-top: 2vh;
+}
+
+.Report__Value
+{
+  text-align: left;
+  position: relative;
+}
+
+/* Mobile styling */
+.Report__Value span
+{
+  position: absolute;
+  bottom: 0;
+}

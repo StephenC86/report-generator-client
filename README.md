@@ -1,1 +1,1 @@
-# report-generator-client
+# client-generator-client
